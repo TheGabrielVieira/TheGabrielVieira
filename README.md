@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A personal CRM project, where I'm applying and expanding my skills in full-stack web development.<br><br>👯 I’m looking to collaborate on<br>Cloud-based projects using AWS, Azure, and container technologies like Docker and Kubernetes.<br><br>🤝 I’m looking for help with<br>Collaborative opportunities in building applications with Java & Spring Boot or PHP & Laravel, especially in backend development.<br><br>🌱 I’m currently learning<br>Advancing my knowledge of Angular and NestJS, while also diving into data science with Python and libraries such as Pandas, NumPy, and Matplotlib.<br><br>💬 Ask me about<br>My learning journey, web technologies, and backend development with modern frameworks.<br><br>⚡ Fun fact<br>Outside of coding, I enjoy playing chess and staying active at the gym. I also used to compete in regional swimming tournaments when I was younger.<br><br>
+🔭 I’m currently working on<br><br><br>👯 I’m looking to collaborate on<br><br><br>🤝 I’m looking for help with<br><br><br>🌱 I’m currently learning<br><br><br>💬 Ask me about<br><br><br>⚡ Fun fact<br><br><br>
 
 
 ## 🌐 Socials:
