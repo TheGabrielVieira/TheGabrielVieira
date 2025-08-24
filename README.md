@@ -1,16 +1,27 @@
-# About Me:
+### 💻 About Me
 
-#### I’m currently working on...
-- [Adicione aqui os seus projetos atuais ou o que você está desenvolvendo]
+I'm **Gabriel**, a Back-end developer with experience in **JAVA**, **PHP**, **Python**, and **Databases** (MySQL), currently based in Brazil.
 
-#### I’m currently learning...
-- [Adicione aqui as novas tecnologias, linguagens ou conceitos que você está aprendendo]
+---
 
-#### Ask me about...
-- [Adicione aqui os tópicos sobre os quais você tem conhecimento e pode ajudar]
+#### 🔭 I'm currently working on...
+- Personal practical projects, such as a Delivery App.
 
-#### Fun fact
-- [Adicione aqui uma curiosidade sobre você]
+#### 🌱 I'm currently learning...
+- More about **Clean Code** and **SOLID** to develop better projects.
+- **Microservices** and **DDD (Domain-Driven Design)**.
+
+---
+
+#### 💬 Ask me about...
+- Current technologies, programming languages, or databases.
+- I also love to listen to others talk!
+
+---
+
+#### ⚡ Fun fact
+- I love chess and puzzle games.
+- I enjoy traveling, exercising, and taking pictures.
 
 
 ## Socials:
