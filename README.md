@@ -1,5 +1,16 @@
 # About Me:
-I’m currently working on<br><br><br> I’m looking to collaborate on<br><br><br> <br> I’m currently learning<br><br><br> Ask me about<br><br><br> Fun fact<br><br><br>
+
+#### I’m currently working on...
+- [Adicione aqui os seus projetos atuais ou o que você está desenvolvendo]
+
+#### I’m currently learning...
+- [Adicione aqui as novas tecnologias, linguagens ou conceitos que você está aprendendo]
+
+#### Ask me about...
+- [Adicione aqui os tópicos sobre os quais você tem conhecimento e pode ajudar]
+
+#### Fun fact
+- [Adicione aqui uma curiosidade sobre você]
 
 
 ## Socials:
