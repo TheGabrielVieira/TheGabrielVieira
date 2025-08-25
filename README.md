@@ -1,28 +1,17 @@
-### 💻 About Me
+### About Me
 
-I'm **Gabriel**, a Back-end developer with experience in **JAVA**, **PHP**, **Python**, and **Databases** (MySQL), currently based in Brazil.
+I'm **Gabriel**, a Back-end Developer with experience in **Java**, **PHP**, **Python**, and **Databases** (MySQL), currently based in Brazil.  
 
----
+I’m working on personal projects, such as a Delivery App.  
+I’m also learning more about **Clean Code** and **SOLID** principles to build better projects, focusing on **Microservices** and **DDD (Domain-Driven Design)**.  
 
-#### 🔭 I'm currently working on...
-- Personal practical projects, such as a Delivery App.
+#### Ask me about...
+- Programming languages, technologies, or databases.  
+- I also enjoy listening and sharing knowledge!  
 
-#### 🌱 I'm currently learning...
-- More about **Clean Code** and **SOLID** to develop better projects.
-- **Microservices** and **DDD (Domain-Driven Design)**.
-
----
-
-#### 💬 Ask me about...
-- Current technologies, programming languages, or databases.
-- I also love to listen to others talk!
-
----
-
-#### ⚡ Fun fact
-- I love chess and puzzle games.
-- I enjoy traveling, exercising, and taking pictures.
-
+#### Fun fact
+- I love chess and puzzle games.  
+- I enjoy traveling, working out, and photography.  
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielvieiramu_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvieiramu/) 
