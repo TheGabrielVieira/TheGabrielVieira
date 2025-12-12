@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header"/>
 ### About Me
 
 I'm **Gabriel**, a Back-end Developer with experience in **Java**, **PHP**, **Python**, and **Databases** (MySQL), currently based in Brazil.  
@@ -21,3 +21,4 @@ I’m also learning more about **Clean Code** and **SOLID** principles to build 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielvieiramu_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvieiramu/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
