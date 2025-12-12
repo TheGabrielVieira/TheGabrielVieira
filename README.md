@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header"/>
+
 ### About Me
 
 I'm **Gabriel**, a Back-end Developer with experience in **Java**, **PHP**, **Python**, and **Databases** (MySQL), currently based in Brazil.  
